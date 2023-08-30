@@ -1,13 +1,49 @@
 html {
   font-size: 20px;
+  font-family: "Gluten", cursive;
+  
 }
 body {
-  background-color: #ddd;
+  background-color: #272829;
 }
+
 .heading {
   font-size: 2rem;
   text-align: center;
+  color: #FFF6E0;
 }
-main {
-  font-size: 20px;
+.food-storage-container {
+  font-size: 1.2rem;
+  width: 75%;
+  margin: 0 auto;
 }
+
+.food-storage-heading {
+  text-transform: uppercase;
+  width: 50%;
+  background-color: #D8D9DA;
+  text-align: center;
+  font-weight: 400;
+  
+}
+.food-storage {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+.food-storage section {
+    background-color: #61677A;
+    width: 40%;
+    margin: 0px 0.2rem;
+    
+}
+.food-storage img {
+  width: 25%;
+}
+.food-storage h3 {
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #D8D9DA;
+  text-align: center;
+}
+
