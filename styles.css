@@ -1,0 +1,13 @@
+html {
+  font-size: 20px;
+}
+body {
+  background-color: #ddd;
+}
+.heading {
+  font-size: 2rem;
+  text-align: center;
+}
+main {
+  font-size: 20px;
+}
